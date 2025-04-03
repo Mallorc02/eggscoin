@@ -68,7 +68,9 @@ export default function EggsCoinLanding() {
           </button>
         </a>
         <div>
-          <p className="text-sm text-gray-600 mt-2">Contrato: <code>{contractAddress}</code></p>
+          <p className="text-sm text-gray-600 mt-2">
+            Contrato: <code>{contractAddress}</code>
+          </p>
         </div>
       </motion.div>
     </div>
