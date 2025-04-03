@@ -63,9 +63,9 @@ export default function EggsCoinLanding() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <Button className="text-lg px-6 py-3 rounded-2xl shadow-lg bg-yellow-500 hover:bg-yellow-600 text-white font-semibold rounded-xl">
+          <button className="text-lg px-6 py-3 rounded-2xl shadow-lg bg-yellow-500 hover:bg-yellow-600 text-white font-semibold rounded-xl">
             Comprar en PancakeSwap
-          </Button>
+          </button>
         </a>
         <div>
           <p className="text-sm text-gray-600 mt-2">Contrato: <code>{contractAddress}</code></p>
