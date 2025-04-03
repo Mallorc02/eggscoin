@@ -2,7 +2,7 @@
 import { motion } from "framer-motion";
 
 export default function EggsCoinLanding() {
-  const contractAddress = "0x123abc456789def0123456789abcdef123456789";
+  const contractAddress = "0x3a945De4057aa1f908EF38D36f11A9Bce89617A4";
 
   return (
     <div className="min-h-screen bg-yellow-50 p-6 text-center flex flex-col justify-center items-center space-y-8">
