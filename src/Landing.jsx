@@ -9,7 +9,7 @@ export default function EggsCoinLanding() {
       <motion.img
         src="/eggscoin-logo.png"
         alt="EggsCoin Logo"
-        className="w-24 h-24"
+        className="w-12 h-12"
         initial={{ scale: 0 }}
         animate={{ scale: 1 }}
         transition={{ duration: 0.6 }}
